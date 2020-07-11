@@ -1,0 +1,35 @@
+ [] Desing Database
+ [] Create Tables
+ [] Add constraints
+
+
+ #Lucidchart - application to draw the Database 
+  * Entity - > use entity to draw tables
+  * CreatedAtDate - UpdatedAtDate - DeletedAtDate
+  * Objection js ORM for entities
+  * Knects for migration
+  * docker-compose up
+
+ [] Use a class object to describe a table from Database
+
+
+ * postgresql
+   ** alias pg_start="launchctl load ~/Library/LaunchAgents/homebrew.mxcl.postgresql.plist"
+   ** alias pg_stop="launchctl unload ~/Library/LaunchAgents/homebrew.mxcl.postgresql.plist"
+
+
+Entities :  
+ * User
+ * Task
+ * Comment
+ * Atasament
+ * Priority
+ * Status
+ * TaskHistory
+ * TaskActivity
+
+# Model a SQL Database
+
+# Entity - Description of some thing in database
+ # Record = Is a single instance of an entity
+
